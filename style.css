@@ -1,0 +1,27 @@
+.side{
+	min-height: 700px;
+	padding-top: 80px;
+}
+.side1{
+	padding: 20px;
+}
+.side1 h3{
+	color: #01876E !important;
+}
+.side h3{
+	margin-top: -10px;
+	color: #01876E !important;
+}
+.side1 .btn{
+	background-color: #01876E;
+	border-radius: 0 !important;
+	border-color: #01876E;
+}
+.btn-success{
+	background-color: #135E50 !important;
+	border-radius: 0 !important;
+	border-color: #135E50 !important;
+}
+.pay{
+	margin-top: 300px;
+}

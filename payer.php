@@ -37,7 +37,7 @@ else{
 <script>
   function payWithPaystack(){
     var handler = PaystackPop.setup({
-      key: 'pk_test_e5a9a7a86dce79424fa5cc373be1148321533e55',
+      key: 'your public key here',
       email: '<?php echo $email; ?>',
       amount: <?php echo json_encode($amount) ; ?>,
       currency: "NGN",

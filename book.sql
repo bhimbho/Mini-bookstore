@@ -65,15 +65,8 @@ CREATE TABLE `transactions` (
 --
 
 INSERT INTO `transactions` (`t_id`, `cart_id`, `ref`, `amount`, `email`, `t_date`) VALUES
-(1, 4, '690319296', '150000', 'advancoplanet@gmail.com', '2019-03-08 23:41:07'),
-(2, 2, '190593946', '150000', 'advancoplanet@gmail.com', '2019-03-09 11:07:59'),
-(3, 5, '310372727', '3500', 'advancoplanet@gmail.com', '2019-03-10 00:29:18'),
-(4, 1, '389172780', '2000', 'sina@ya.com', '2019-03-10 00:32:24'),
-(5, 1, '715290511', '2000', 'sina@ya.com', '2019-03-10 00:43:12'),
-(6, 5, '430115337', '3500', 'advancoplanet@gmail.com', '2019-03-10 17:00:19'),
-(7, 2, '442755381', '1500', 'moyixxoreoluwa@gmail.com', '2019-03-10 17:05:38'),
-(8, 2, '660100802', '1500', 'advancoplanet@gmail.com', '2019-03-10 17:30:24'),
-(9, 2, '119565699', '1500', 'advancoplanet@gmail.com', '2019-03-10 17:32:26');
+(1, 4, '690319296', '150000', 'adv@gmail.com', '2019-03-08 23:41:07'),
+(2, 2, '119565699', '1500', 'adv@gmail.com', '2019-03-10 17:32:26');
 
 -- --------------------------------------------------------
 
@@ -95,11 +88,11 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`user_id`, `fname`, `username`, `password`, `email`, `add`) VALUES
-(1, '', 'bimbo', 'bimbo', 'advancoplanet@gmail.com', ''),
-(2, '', 'afeez', 'afeez', 'advancoplanet@gmail.com', ''),
-(3, 'shina', 's', 'a', 'advancoplanet@yahoo.com', 'a'),
+(1, '', 'bimbo', 'bimbo', 'adv@gmail.com', ''),
+(2, '', 'afeez', 'afeez', 'adva@gmail.com', ''),
+(3, 'shina', 's', 'a', 'advan@yahoo.com', 'a'),
 (4, 'soneye sina', 'sina', 'sina', 'sina@ya.com', 'ilaro'),
-(5, 'cooper', 'cooper', 'cooper', 'moyixxoreoluwa@gmail.com', 'ilaro');
+(5, 'cooper', 'cooper', 'cooper', 'mmm@gmail.com', 'ilaro');
 
 --
 -- Indexes for dumped tables
